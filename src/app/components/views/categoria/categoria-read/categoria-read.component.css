@@ -1,0 +1,12 @@
+.content {
+    width: 95%;
+    justify-content: center;
+    margin: 1.2rem auto auto autos;
+}
+
+.title {
+    color: rgb(132, 168, 168);
+    text-align: center;
+    margin: 1.5rem;
+    padding-bottom: 2rem;
+}

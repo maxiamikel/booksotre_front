@@ -5,12 +5,22 @@
 
 @media(max-width: 450px) {
     .home {
-        width: 80%;
+        width: 85%;
     }
 }
 
 @media(max-width: 750px) {
     .home {
         width: 90%;
+    }
+}
+
+@media(max-width: 400px) {
+    .home {
+        width: 90%;
+        margin-top: .2rem;
+    }
+    .content {
+        margin-top: .2rem;
     }
 }
